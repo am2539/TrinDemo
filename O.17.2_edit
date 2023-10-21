@@ -1892,7 +1892,7 @@
                                     "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0067__O.17.2_back blank 01r.jp2",
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 },
-                                "width": 5892, (blank)",
+                                "width": 5892, 
                                 "height": 8603
                             }
                         }
@@ -2495,7 +2495,7 @@
                 {
                     "@type": "sc:Canvas",
                     "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0090__O.17.2_back blank 12v.jp2",
-                    "label": "f. 35v (blank)",,
+                    "label": "f. 35v (blank)",
                     "width": 5892,
                     "height": 8603,
                     "images": [
