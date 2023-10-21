@@ -1,0 +1,2960 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "@id": "https://mss-cat.trin.cam.ac.uk/Manuscript/O.17.2/manifest.json?manifest=https://mss-cat.trin.cam.ac.uk/Manuscript/O.17.2/manifest.json",
+  "label": "O.17.2",
+  "description": "<p>21 sketches, in watercolour and ink, of public buildings and monuments in Constantinople, bound in vellum.</p>",
+  "provenance": null,
+  "thumbnail": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0005__O.17.2_f001ra.jp2/full/full/0/default.jpg",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "<p>The Freshfield Album</p>"
+    },
+    {
+      "label": "Alternative Title",
+      "value": "<p>The Freshfield Album</p>"
+    },
+    {
+      "label": "James Number",
+      "value": "n/a"
+    },
+    {
+      "label": "Century",
+      "value": "16"
+    },
+    {
+      "label": "Provenance",
+      "value": "<p>Edwin Hanson Freshfield, member of the College, 17 June 1935.</p>\r\n<p>Drawn by a German-speaking artist in 1574 with captions in Latin referring to Pierre Gilles, De topographia Constantinopoleos. Possibly the work of the Flemish artist Lambert de Vos; an earlier suggestion was Stefan Gerlach, chaplain to David Ungnad, imperial envoy of the Emperor Maximilan II to Constantinople (see Freshfield, &lsquo;Notes on a Vellum Album&rsquo;). Acquired in the nineteenth century by Edwin Freshfield, father of the donor.</p>"
+    },
+    {
+      "label": "Second Folio",
+      "value": null
+    },
+    {
+      "label": "Religious House",
+      "value": ""
+    },
+    {
+      "label": "Donor",
+      "value": "Freshfield, Edwin Hanson (1864-1962), Alumnus Of Trinity (Matric 1881)"
+    },
+    {
+      "label": "Size (cm)",
+      "value": "41 x 28"
+    },
+    {
+      "label": "Folios",
+      "value": "21 ff. "
+    },
+    {
+      "label": "Binding",
+      "value": null
+    },
+    {
+      "label": "Material",
+      "value": "Paper"
+    },
+    {
+      "label": "Language",
+      "value": "Latin"
+    },
+    {
+      "label": "Collation",
+      "value": "<p>n/a</p>"
+    },
+    {
+      "label": "Notes",
+      "value": null
+    },
+    {
+      "label": "Manuscript Summary",
+      "value": null
+    },
+    {
+      "label": "Online Since",
+      "value": "09/12/2015"
+    },
+    {
+      "label": "Catalogue",
+      "value": "<a href='https://mss-cat.trin.cam.ac.uk/Manuscript/O.17.2'>View Record</a>"
+    }
+  ],
+  "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "attribution": "Trinity College, Cambridge",
+  "logo": "https://mss-cat.trin.cam.ac.uk/manuscripts/files/logo.png",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "viewingHint": "individuals",
+      "viewingDirection": "left-to-right",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0001_O.17.2_front_cover.jp2",
+          "label": "cover",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0001_O.17.2_front_cover.jp2",
+              "resource": {
+                "label": "0001_O.17.2_front_cover",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0001_O.17.2_front_cover.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0001_O.17.2_front_cover.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0002_O.17.2_inside_front.jp2",
+          "label": "front",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0002_O.17.2_inside_front.jp2",
+              "resource": {
+                "label": "0002_O.17.2_inside_front",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0002_O.17.2_inside_front.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0002_O.17.2_inside_front.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0003_O.17.2_ir.jp2",
+          "label": "ir",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0003_O.17.2_ir.jp2",
+              "resource": {
+                "label": "0003_O.17.2_ir",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0003_O.17.2_ir.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0003_O.17.2_ir.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0004__O.17.2_iv.jp2",
+          "label": "iv",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0004__O.17.2_iv.jp2",
+              "resource": {
+                "label": "0004__O.17.2_iv",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0004__O.17.2_iv.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0004__O.17.2_iv.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0005__O.17.2_f001ra.jp2",
+          "label": "f001ra",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0005__O.17.2_f001ra.jp2",
+              "resource": {
+                "label": "0005__O.17.2_f001ra",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0005__O.17.2_f001ra.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0005__O.17.2_f001ra.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0006__O.17.2_001rb.jp2",
+          "label": "001rb",
+          "width": 5818,
+          "height": 12515,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0006__O.17.2_001rb.jp2",
+              "resource": {
+                "label": "0006__O.17.2_001rb",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0006__O.17.2_001rb.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0006__O.17.2_001rb.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5818,
+                "height": 12515
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0007__O.17.2_f001v.jp2",
+          "label": "f001v",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0007__O.17.2_f001v.jp2",
+              "resource": {
+                "label": "0007__O.17.2_f001v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0007__O.17.2_f001v.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0007__O.17.2_f001v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0008__O.17.2_f002ra.jp2",
+          "label": "f002ra",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0008__O.17.2_f002ra.jp2",
+              "resource": {
+                "label": "0008__O.17.2_f002ra",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0008__O.17.2_f002ra.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0008__O.17.2_f002ra.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0009__O.17.2_022rb.jp2",
+          "label": "022rb",
+          "width": 5398,
+          "height": 11121,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0009__O.17.2_022rb.jp2",
+              "resource": {
+                "label": "0009__O.17.2_022rb",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0009__O.17.2_022rb.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0009__O.17.2_022rb.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5398,
+                "height": 11121
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0010__O.17.2_f002v.jp2",
+          "label": "f002v",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0010__O.17.2_f002v.jp2",
+              "resource": {
+                "label": "0010__O.17.2_f002v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0010__O.17.2_f002v.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0010__O.17.2_f002v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0011__O.17.2_f003ra.jp2",
+          "label": "f003ra",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0011__O.17.2_f003ra.jp2",
+              "resource": {
+                "label": "0011__O.17.2_f003ra",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0011__O.17.2_f003ra.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0011__O.17.2_f003ra.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0012__O.17.2_003rb.jp2",
+          "label": "003rb",
+          "width": 5652,
+          "height": 11325,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0012__O.17.2_003rb.jp2",
+              "resource": {
+                "label": "0012__O.17.2_003rb",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0012__O.17.2_003rb.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0012__O.17.2_003rb.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5652,
+                "height": 11325
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0013__O.17.2_f003v.jp2",
+          "label": "f003v",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0013__O.17.2_f003v.jp2",
+              "resource": {
+                "label": "0013__O.17.2_f003v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0013__O.17.2_f003v.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0013__O.17.2_f003v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0014__O.17.2_f004ra.jp2",
+          "label": "f004ra",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0014__O.17.2_f004ra.jp2",
+              "resource": {
+                "label": "0014__O.17.2_f004ra",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0014__O.17.2_f004ra.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0014__O.17.2_f004ra.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0015__O.17.2_0004rb.jp2",
+          "label": "0004rb",
+          "width": 6357,
+          "height": 11197,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0015__O.17.2_0004rb.jp2",
+              "resource": {
+                "label": "0015__O.17.2_0004rb",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0015__O.17.2_0004rb.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0015__O.17.2_0004rb.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 6357,
+                "height": 11197
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0016__O.17.2_f004v.jp2",
+          "label": "f004v",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0016__O.17.2_f004v.jp2",
+              "resource": {
+                "label": "0016__O.17.2_f004v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0016__O.17.2_f004v.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0016__O.17.2_f004v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0017__O.17.2_f005ra.jp2",
+          "label": "f005ra",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0017__O.17.2_f005ra.jp2",
+              "resource": {
+                "label": "0017__O.17.2_f005ra",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0017__O.17.2_f005ra.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0017__O.17.2_f005ra.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0018__O.17.2_005rb.jp2",
+          "label": "005rb",
+          "width": 6178,
+          "height": 11141,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0018__O.17.2_005rb.jp2",
+              "resource": {
+                "label": "0018__O.17.2_005rb",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0018__O.17.2_005rb.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0018__O.17.2_005rb.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 6178,
+                "height": 11141
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0019__O.17.2_f005v.jp2",
+          "label": "f005v",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0019__O.17.2_f005v.jp2",
+              "resource": {
+                "label": "0019__O.17.2_f005v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0019__O.17.2_f005v.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0019__O.17.2_f005v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0020__O.17.2_f006r.jp2",
+          "label": "f006r",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0020__O.17.2_f006r.jp2",
+              "resource": {
+                "label": "0020__O.17.2_f006r",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0020__O.17.2_f006r.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0020__O.17.2_f006r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0021__O.17.2_f006v.jp2",
+          "label": "f006v",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0021__O.17.2_f006v.jp2",
+              "resource": {
+                "label": "0021__O.17.2_f006v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0021__O.17.2_f006v.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0021__O.17.2_f006v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0022__O.17.2_f007ra.jp2",
+          "label": "f007ra",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0022__O.17.2_f007ra.jp2",
+              "resource": {
+                "label": "0022__O.17.2_f007ra",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0022__O.17.2_f007ra.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0022__O.17.2_f007ra.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0023__O.17.2_007rb.jp2",
+          "label": "007rb",
+          "width": 5881,
+          "height": 12008,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0023__O.17.2_007rb.jp2",
+              "resource": {
+                "label": "0023__O.17.2_007rb",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0023__O.17.2_007rb.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0023__O.17.2_007rb.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5881,
+                "height": 12008
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0024__O.17.2_f007v.jp2",
+          "label": "f007v",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0024__O.17.2_f007v.jp2",
+              "resource": {
+                "label": "0024__O.17.2_f007v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0024__O.17.2_f007v.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0024__O.17.2_f007v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0025_O.17.2_f008r.jp2",
+          "label": "f008r",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0025_O.17.2_f008r.jp2",
+              "resource": {
+                "label": "0025_O.17.2_f008r",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0025_O.17.2_f008r.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0025_O.17.2_f008r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0026__O.17.2_f008v.jp2",
+          "label": "f008v",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0026__O.17.2_f008v.jp2",
+              "resource": {
+                "label": "0026__O.17.2_f008v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0026__O.17.2_f008v.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0026__O.17.2_f008v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0027__O.17.2_f009r.jp2",
+          "label": "f009r",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0027__O.17.2_f009r.jp2",
+              "resource": {
+                "label": "0027__O.17.2_f009r",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0027__O.17.2_f009r.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0027__O.17.2_f009r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0028__O.17.2_f009v.jp2",
+          "label": "f009v",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0028__O.17.2_f009v.jp2",
+              "resource": {
+                "label": "0028__O.17.2_f009v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0028__O.17.2_f009v.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0028__O.17.2_f009v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0029__O.17.2_f010r.jp2",
+          "label": "f010r",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0029__O.17.2_f010r.jp2",
+              "resource": {
+                "label": "0029__O.17.2_f010r",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0029__O.17.2_f010r.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0029__O.17.2_f010r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0030__O.17.2_f010v.jp2",
+          "label": "f010v",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0030__O.17.2_f010v.jp2",
+              "resource": {
+                "label": "0030__O.17.2_f010v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0030__O.17.2_f010v.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0030__O.17.2_f010v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0031__O.17.2_f011ra.jp2",
+          "label": "f011ra",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0031__O.17.2_f011ra.jp2",
+              "resource": {
+                "label": "0031__O.17.2_f011ra",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0031__O.17.2_f011ra.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0031__O.17.2_f011ra.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0032__O.17.2_011rb.jp2",
+          "label": "011rb",
+          "width": 6228,
+          "height": 13462,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0032__O.17.2_011rb.jp2",
+              "resource": {
+                "label": "0032__O.17.2_011rb",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0032__O.17.2_011rb.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0032__O.17.2_011rb.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 6228,
+                "height": 13462
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0033__O.17.2_f011v.jp2",
+          "label": "f011v",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0033__O.17.2_f011v.jp2",
+              "resource": {
+                "label": "0033__O.17.2_f011v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0033__O.17.2_f011v.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0033__O.17.2_f011v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0034__O.17.2_f012ra.jp2",
+          "label": "f012ra",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0034__O.17.2_f012ra.jp2",
+              "resource": {
+                "label": "0034__O.17.2_f012ra",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0034__O.17.2_f012ra.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0034__O.17.2_f012ra.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0035__O.17.2_012rb.jp2",
+          "label": "012rb",
+          "width": 6409,
+          "height": 12782,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0035__O.17.2_012rb.jp2",
+              "resource": {
+                "label": "0035__O.17.2_012rb",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0035__O.17.2_012rb.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0035__O.17.2_012rb.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 6409,
+                "height": 12782
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0036__O.17.2_f012v.jp2",
+          "label": "f012v",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0036__O.17.2_f012v.jp2",
+              "resource": {
+                "label": "0036__O.17.2_f012v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0036__O.17.2_f012v.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0036__O.17.2_f012v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0037__O.17.2_f013ra.jp2",
+          "label": "f013ra",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0037__O.17.2_f013ra.jp2",
+              "resource": {
+                "label": "0037__O.17.2_f013ra",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0037__O.17.2_f013ra.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0037__O.17.2_f013ra.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0038__O.17.2_013rb.jp2",
+          "label": "013rb",
+          "width": 6097,
+          "height": 14846,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0038__O.17.2_013rb.jp2",
+              "resource": {
+                "label": "0038__O.17.2_013rb",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0038__O.17.2_013rb.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0038__O.17.2_013rb.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 6097,
+                "height": 14846
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0039__O.17.2_f013v.jp2",
+          "label": "f013v",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0039__O.17.2_f013v.jp2",
+              "resource": {
+                "label": "0039__O.17.2_f013v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0039__O.17.2_f013v.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0039__O.17.2_f013v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0040__O.17.2_f014ra.jp2",
+          "label": "f014ra",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0040__O.17.2_f014ra.jp2",
+              "resource": {
+                "label": "0040__O.17.2_f014ra",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0040__O.17.2_f014ra.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0040__O.17.2_f014ra.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0041__O.17.2_014rb_.jp2",
+          "label": "",
+          "width": 11195,
+          "height": 8618,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0041__O.17.2_014rb_.jp2",
+              "resource": {
+                "label": "0041__O.17.2_014rb_",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0041__O.17.2_014rb_.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0041__O.17.2_014rb_.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 11195,
+                "height": 8618
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0042__O.17.2_f014v.jp2",
+          "label": "f014v",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0042__O.17.2_f014v.jp2",
+              "resource": {
+                "label": "0042__O.17.2_f014v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0042__O.17.2_f014v.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0042__O.17.2_f014v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0043__O.17.2_f015r.jp2",
+          "label": "f015r",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0043__O.17.2_f015r.jp2",
+              "resource": {
+                "label": "0043__O.17.2_f015r",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0043__O.17.2_f015r.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0043__O.17.2_f015r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0044__O.17.2_f015v.jp2",
+          "label": "f015v",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0044__O.17.2_f015v.jp2",
+              "resource": {
+                "label": "0044__O.17.2_f015v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0044__O.17.2_f015v.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0044__O.17.2_f015v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0045__O.17.2_f016r.jp2",
+          "label": "f016r",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0045__O.17.2_f016r.jp2",
+              "resource": {
+                "label": "0045__O.17.2_f016r",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0045__O.17.2_f016r.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0045__O.17.2_f016r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0046__O.17.2_f016v.jp2",
+          "label": "f016v",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0046__O.17.2_f016v.jp2",
+              "resource": {
+                "label": "0046__O.17.2_f016v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0046__O.17.2_f016v.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0046__O.17.2_f016v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0047__O.17.2_f017r.jp2",
+          "label": "f017r",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0047__O.17.2_f017r.jp2",
+              "resource": {
+                "label": "0047__O.17.2_f017r",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0047__O.17.2_f017r.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0047__O.17.2_f017r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0048__O.17.2_f017v.jp2",
+          "label": "f017v",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0048__O.17.2_f017v.jp2",
+              "resource": {
+                "label": "0048__O.17.2_f017v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0048__O.17.2_f017v.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0048__O.17.2_f017v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0049__O.17.2_f018r.jp2",
+          "label": "f018r",
+          "width": 5792,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0049__O.17.2_f018r.jp2",
+              "resource": {
+                "label": "0049__O.17.2_f018r",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0049__O.17.2_f018r.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0049__O.17.2_f018r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5792,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0050__O.17.2_f018v.jp2",
+          "label": "f018v",
+          "width": 5792,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0050__O.17.2_f018v.jp2",
+              "resource": {
+                "label": "0050__O.17.2_f018v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0050__O.17.2_f018v.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0050__O.17.2_f018v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5792,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0051__O.17.2_f019r.jp2",
+          "label": "f019r",
+          "width": 4234,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0051__O.17.2_f019r.jp2",
+              "resource": {
+                "label": "0051__O.17.2_f019r",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0051__O.17.2_f019r.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0051__O.17.2_f019r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 4234,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0052__O.17.2_f019v.jp2",
+          "label": "f019v",
+          "width": 4234,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0052__O.17.2_f019v.jp2",
+              "resource": {
+                "label": "0052__O.17.2_f019v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0052__O.17.2_f019v.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0052__O.17.2_f019v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 4234,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0053__O.17.2_f020rb_1.jp2",
+          "label": "1",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0053__O.17.2_f020rb_1.jp2",
+              "resource": {
+                "label": "0053__O.17.2_f020rb_1",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0053__O.17.2_f020rb_1.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0053__O.17.2_f020rb_1.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0054_O.17.2_f020ra.jp2",
+          "label": "f020ra",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0054_O.17.2_f020ra.jp2",
+              "resource": {
+                "label": "0054_O.17.2_f020ra",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0054_O.17.2_f020ra.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0054_O.17.2_f020ra.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0055__O.17.2_f020rb.jp2",
+          "label": "f020rb",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0055__O.17.2_f020rb.jp2",
+              "resource": {
+                "label": "0055__O.17.2_f020rb",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0055__O.17.2_f020rb.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0055__O.17.2_f020rb.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0056__O.17.2_020_full_stitched.jp2",
+          "label": "stitched",
+          "width": 20424,
+          "height": 8438,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0056__O.17.2_020_full_stitched.jp2",
+              "resource": {
+                "label": "0056__O.17.2_020_full_stitched",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0056__O.17.2_020_full_stitched.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0056__O.17.2_020_full_stitched.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 20424,
+                "height": 8438
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0057__O.17.2_f020bv.jp2",
+          "label": "f020bv",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0057__O.17.2_f020bv.jp2",
+              "resource": {
+                "label": "0057__O.17.2_f020bv",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0057__O.17.2_f020bv.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0057__O.17.2_f020bv.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0058__O.17.2_stub 1r.jp2",
+          "label": "stub 1r",
+          "width": 751,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0058__O.17.2_stub 1r.jp2",
+              "resource": {
+                "label": "0058__O.17.2_stub 1r",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0058__O.17.2_stub 1r.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0058__O.17.2_stub 1r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 751,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0059__O.17.2_stub 1v.jp2",
+          "label": "stub 1v",
+          "width": 750,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0059__O.17.2_stub 1v.jp2",
+              "resource": {
+                "label": "0059__O.17.2_stub 1v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0059__O.17.2_stub 1v.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0059__O.17.2_stub 1v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 750,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0060__O.17.2_stub 2r.jp2",
+          "label": "stub 2r",
+          "width": 1007,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0060__O.17.2_stub 2r.jp2",
+              "resource": {
+                "label": "0060__O.17.2_stub 2r",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0060__O.17.2_stub 2r.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0060__O.17.2_stub 2r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 1007,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0061__O.17.2_stub2v.jp2",
+          "label": "stub2v",
+          "width": 1006,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0061__O.17.2_stub2v.jp2",
+              "resource": {
+                "label": "0061__O.17.2_stub2v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0061__O.17.2_stub2v.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0061__O.17.2_stub2v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 1006,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0062__O.17.2_f021r.jp2",
+          "label": "f021r",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0062__O.17.2_f021r.jp2",
+              "resource": {
+                "label": "0062__O.17.2_f021r",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0062__O.17.2_f021r.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0062__O.17.2_f021r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0063__O.17.2_021_stitched.jp2",
+          "label": "stitched",
+          "width": 9676,
+          "height": 7659,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0063__O.17.2_021_stitched.jp2",
+              "resource": {
+                "label": "0063__O.17.2_021_stitched",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0063__O.17.2_021_stitched.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0063__O.17.2_021_stitched.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 9676,
+                "height": 7659
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0064__O.17.2_f021bv.jp2",
+          "label": "f021bv",
+          "width": 5100,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0064__O.17.2_f021bv.jp2",
+              "resource": {
+                "label": "0064__O.17.2_f021bv",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0064__O.17.2_f021bv.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0064__O.17.2_f021bv.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5100,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0065__O.17.2_loose sheet r.jp2",
+          "label": "loose sheet r",
+          "width": 4715,
+          "height": 6559,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0065__O.17.2_loose sheet r.jp2",
+              "resource": {
+                "label": "0065__O.17.2_loose sheet r",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0065__O.17.2_loose sheet r.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0065__O.17.2_loose sheet r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 4715,
+                "height": 6559
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0066__O.17.2_loose sheet v.jp2",
+          "label": "loose sheet v",
+          "width": 4715,
+          "height": 6559,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0066__O.17.2_loose sheet v.jp2",
+              "resource": {
+                "label": "0066__O.17.2_loose sheet v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0066__O.17.2_loose sheet v.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0066__O.17.2_loose sheet v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 4715,
+                "height": 6559
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0067__O.17.2_back blank 01r.jp2",
+          "label": "back blank 01r",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0067__O.17.2_back blank 01r.jp2",
+              "resource": {
+                "label": "0067__O.17.2_back blank 01r",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0067__O.17.2_back blank 01r.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0067__O.17.2_back blank 01r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0068__O.17.2_back blank 01v.jp2",
+          "label": "back blank 01v",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0068__O.17.2_back blank 01v.jp2",
+              "resource": {
+                "label": "0068__O.17.2_back blank 01v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0068__O.17.2_back blank 01v.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0068__O.17.2_back blank 01v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0069__O.17.2_back blank 02r.jp2",
+          "label": "back blank 02r",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0069__O.17.2_back blank 02r.jp2",
+              "resource": {
+                "label": "0069__O.17.2_back blank 02r",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0069__O.17.2_back blank 02r.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0069__O.17.2_back blank 02r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0070__O.17.2_back blank 02v.jp2",
+          "label": "back blank 02v",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0070__O.17.2_back blank 02v.jp2",
+              "resource": {
+                "label": "0070__O.17.2_back blank 02v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0070__O.17.2_back blank 02v.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0070__O.17.2_back blank 02v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0071__O.17.2_back blank 03r.jp2",
+          "label": "back blank 03r",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0071__O.17.2_back blank 03r.jp2",
+              "resource": {
+                "label": "0071__O.17.2_back blank 03r",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0071__O.17.2_back blank 03r.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0071__O.17.2_back blank 03r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0072__O.17.2_back blank 03v.jp2",
+          "label": "back blank 03v",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0072__O.17.2_back blank 03v.jp2",
+              "resource": {
+                "label": "0072__O.17.2_back blank 03v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0072__O.17.2_back blank 03v.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0072__O.17.2_back blank 03v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0073__O.17.2_back blank 04r.jp2",
+          "label": "back blank 04r",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0073__O.17.2_back blank 04r.jp2",
+              "resource": {
+                "label": "0073__O.17.2_back blank 04r",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0073__O.17.2_back blank 04r.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0073__O.17.2_back blank 04r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0074__O.17.2_back blank 04v.jp2",
+          "label": "back blank 04v",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0074__O.17.2_back blank 04v.jp2",
+              "resource": {
+                "label": "0074__O.17.2_back blank 04v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0074__O.17.2_back blank 04v.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0074__O.17.2_back blank 04v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0075__O.17.2_back blank 05r.jp2",
+          "label": "back blank 05r",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0075__O.17.2_back blank 05r.jp2",
+              "resource": {
+                "label": "0075__O.17.2_back blank 05r",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0075__O.17.2_back blank 05r.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0075__O.17.2_back blank 05r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0076__O.17.2_back blank 05v.jp2",
+          "label": "back blank 05v",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0076__O.17.2_back blank 05v.jp2",
+              "resource": {
+                "label": "0076__O.17.2_back blank 05v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0076__O.17.2_back blank 05v.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0076__O.17.2_back blank 05v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0077__O.17.2_back blank 06r.jp2",
+          "label": "back blank 06r",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0077__O.17.2_back blank 06r.jp2",
+              "resource": {
+                "label": "0077__O.17.2_back blank 06r",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0077__O.17.2_back blank 06r.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0077__O.17.2_back blank 06r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0078__O.17.2_back blank 06v.jp2",
+          "label": "back blank 06v",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0078__O.17.2_back blank 06v.jp2",
+              "resource": {
+                "label": "0078__O.17.2_back blank 06v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0078__O.17.2_back blank 06v.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0078__O.17.2_back blank 06v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0079__O.17.2_back blank 07r.jp2",
+          "label": "back blank 07r",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0079__O.17.2_back blank 07r.jp2",
+              "resource": {
+                "label": "0079__O.17.2_back blank 07r",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0079__O.17.2_back blank 07r.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0079__O.17.2_back blank 07r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0080__O.17.2_back blank 07v.jp2",
+          "label": "back blank 07v",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0080__O.17.2_back blank 07v.jp2",
+              "resource": {
+                "label": "0080__O.17.2_back blank 07v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0080__O.17.2_back blank 07v.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0080__O.17.2_back blank 07v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0081__O.17.2_back blank 08r.jp2",
+          "label": "back blank 08r",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0081__O.17.2_back blank 08r.jp2",
+              "resource": {
+                "label": "0081__O.17.2_back blank 08r",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0081__O.17.2_back blank 08r.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0081__O.17.2_back blank 08r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0082__O.17.2_back blank 08v.jp2",
+          "label": "back blank 08v",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0082__O.17.2_back blank 08v.jp2",
+              "resource": {
+                "label": "0082__O.17.2_back blank 08v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0082__O.17.2_back blank 08v.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0082__O.17.2_back blank 08v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0083__O.17.2_back blank 09r.jp2",
+          "label": "back blank 09r",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0083__O.17.2_back blank 09r.jp2",
+              "resource": {
+                "label": "0083__O.17.2_back blank 09r",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0083__O.17.2_back blank 09r.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0083__O.17.2_back blank 09r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0084__O.17.2_back blank 09v.jp2",
+          "label": "back blank 09v",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0084__O.17.2_back blank 09v.jp2",
+              "resource": {
+                "label": "0084__O.17.2_back blank 09v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0084__O.17.2_back blank 09v.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0084__O.17.2_back blank 09v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0085__O.17.2_back blank 10r.jp2",
+          "label": "back blank 10r",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0085__O.17.2_back blank 10r.jp2",
+              "resource": {
+                "label": "0085__O.17.2_back blank 10r",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0085__O.17.2_back blank 10r.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0085__O.17.2_back blank 10r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0086__O.17.2_back blank 10v.jp2",
+          "label": "back blank 10v",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0086__O.17.2_back blank 10v.jp2",
+              "resource": {
+                "label": "0086__O.17.2_back blank 10v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0086__O.17.2_back blank 10v.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0086__O.17.2_back blank 10v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0087__O.17.2_back blank 11r.jp2",
+          "label": "back blank 11r",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0087__O.17.2_back blank 11r.jp2",
+              "resource": {
+                "label": "0087__O.17.2_back blank 11r",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0087__O.17.2_back blank 11r.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0087__O.17.2_back blank 11r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0088__O.17.2_back blank 11v.jp2",
+          "label": "back blank 11v",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0088__O.17.2_back blank 11v.jp2",
+              "resource": {
+                "label": "0088__O.17.2_back blank 11v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0088__O.17.2_back blank 11v.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0088__O.17.2_back blank 11v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0089__O.17.2_back blank 12r.jp2",
+          "label": "back blank 12r",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0089__O.17.2_back blank 12r.jp2",
+              "resource": {
+                "label": "0089__O.17.2_back blank 12r",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0089__O.17.2_back blank 12r.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0089__O.17.2_back blank 12r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0090__O.17.2_back blank 12v.jp2",
+          "label": "back blank 12v",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0090__O.17.2_back blank 12v.jp2",
+              "resource": {
+                "label": "0090__O.17.2_back blank 12v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0090__O.17.2_back blank 12v.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0090__O.17.2_back blank 12v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0091__O.17.2_back blank 13v.jp2",
+          "label": "back blank 13v",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0091__O.17.2_back blank 13v.jp2",
+              "resource": {
+                "label": "0091__O.17.2_back blank 13v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0091__O.17.2_back blank 13v.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0091__O.17.2_back blank 13v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0092_O.17.2_back blank 13r.jp2",
+          "label": "back blank 13r",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0092_O.17.2_back blank 13r.jp2",
+              "resource": {
+                "label": "0092_O.17.2_back blank 13r",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0092_O.17.2_back blank 13r.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0092_O.17.2_back blank 13r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0093__O.17.2_back blank 14r.jp2",
+          "label": "back blank 14r",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0093__O.17.2_back blank 14r.jp2",
+              "resource": {
+                "label": "0093__O.17.2_back blank 14r",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0093__O.17.2_back blank 14r.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0093__O.17.2_back blank 14r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0094__O.17.2_back blank 14v.jp2",
+          "label": "back blank 14v",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0094__O.17.2_back blank 14v.jp2",
+              "resource": {
+                "label": "0094__O.17.2_back blank 14v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0094__O.17.2_back blank 14v.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0094__O.17.2_back blank 14v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0095__O.17.2_back blank 15v.jp2",
+          "label": "back blank 15v",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0095__O.17.2_back blank 15v.jp2",
+              "resource": {
+                "label": "0095__O.17.2_back blank 15v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0095__O.17.2_back blank 15v.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0095__O.17.2_back blank 15v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0096__O.17.2_back blank 15r.jp2",
+          "label": "back blank 15r",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0096__O.17.2_back blank 15r.jp2",
+              "resource": {
+                "label": "0096__O.17.2_back blank 15r",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0096__O.17.2_back blank 15r.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0096__O.17.2_back blank 15r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0097__O.17.2_back blank 16r.jp2",
+          "label": "back blank 16r",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0097__O.17.2_back blank 16r.jp2",
+              "resource": {
+                "label": "0097__O.17.2_back blank 16r",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0097__O.17.2_back blank 16r.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0097__O.17.2_back blank 16r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0098__O.17.2_back blank 16v.jp2",
+          "label": "back blank 16v",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0098__O.17.2_back blank 16v.jp2",
+              "resource": {
+                "label": "0098__O.17.2_back blank 16v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0098__O.17.2_back blank 16v.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0098__O.17.2_back blank 16v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0099__O.17.2_back blank 17r.jp2",
+          "label": "back blank 17r",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0099__O.17.2_back blank 17r.jp2",
+              "resource": {
+                "label": "0099__O.17.2_back blank 17r",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0099__O.17.2_back blank 17r.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0099__O.17.2_back blank 17r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0100__O.17.2_back blank 17v.jp2",
+          "label": "back blank 17v",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0100__O.17.2_back blank 17v.jp2",
+              "resource": {
+                "label": "0100__O.17.2_back blank 17v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0100__O.17.2_back blank 17v.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0100__O.17.2_back blank 17v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0101__O.17.2_inside back.jp2",
+          "label": "inside back",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0101__O.17.2_inside back.jp2",
+              "resource": {
+                "label": "0101__O.17.2_inside back",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0101__O.17.2_inside back.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0101__O.17.2_inside back.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0102__O.17.2_back cover.jp2",
+          "label": "back cover",
+          "width": 5892,
+          "height": 8603,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0102__O.17.2_back cover.jp2",
+              "resource": {
+                "label": "0102__O.17.2_back cover",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0102__O.17.2_back cover.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0102__O.17.2_back cover.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 5892,
+                "height": 8603
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "structures": [
+    {
+      "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/B.1.1/range/r0",
+      "@type": "sc:Range",
+      "label": "All of it",
+      "canvases": [
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0001_O.17.2_front_cover.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0002_O.17.2_inside_front.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0003_O.17.2_ir.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0004__O.17.2_iv.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0005__O.17.2_f001ra.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0006__O.17.2_001rb.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0007__O.17.2_f001v.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0008__O.17.2_f002ra.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0009__O.17.2_022rb.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0010__O.17.2_f002v.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0011__O.17.2_f003ra.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0012__O.17.2_003rb.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0013__O.17.2_f003v.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0014__O.17.2_f004ra.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0015__O.17.2_0004rb.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0016__O.17.2_f004v.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0017__O.17.2_f005ra.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0018__O.17.2_005rb.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0019__O.17.2_f005v.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0020__O.17.2_f006r.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0021__O.17.2_f006v.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0022__O.17.2_f007ra.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0023__O.17.2_007rb.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0024__O.17.2_f007v.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0025_O.17.2_f008r.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0026__O.17.2_f008v.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0027__O.17.2_f009r.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0028__O.17.2_f009v.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0029__O.17.2_f010r.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0030__O.17.2_f010v.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0031__O.17.2_f011ra.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0032__O.17.2_011rb.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0033__O.17.2_f011v.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0034__O.17.2_f012ra.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0035__O.17.2_012rb.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0036__O.17.2_f012v.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0037__O.17.2_f013ra.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0038__O.17.2_013rb.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0039__O.17.2_f013v.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0040__O.17.2_f014ra.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0041__O.17.2_014rb_.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0042__O.17.2_f014v.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0043__O.17.2_f015r.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0044__O.17.2_f015v.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0045__O.17.2_f016r.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0046__O.17.2_f016v.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0047__O.17.2_f017r.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0048__O.17.2_f017v.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0049__O.17.2_f018r.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0050__O.17.2_f018v.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0051__O.17.2_f019r.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0052__O.17.2_f019v.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0053__O.17.2_f020rb_1.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0054_O.17.2_f020ra.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0055__O.17.2_f020rb.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0056__O.17.2_020_full_stitched.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0057__O.17.2_f020bv.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0058__O.17.2_stub 1r.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0059__O.17.2_stub 1v.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0060__O.17.2_stub 2r.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0061__O.17.2_stub2v.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0062__O.17.2_f021r.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0063__O.17.2_021_stitched.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0064__O.17.2_f021bv.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0065__O.17.2_loose sheet r.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0066__O.17.2_loose sheet v.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0067__O.17.2_back blank 01r.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0068__O.17.2_back blank 01v.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0069__O.17.2_back blank 02r.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0070__O.17.2_back blank 02v.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0071__O.17.2_back blank 03r.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0072__O.17.2_back blank 03v.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0073__O.17.2_back blank 04r.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0074__O.17.2_back blank 04v.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0075__O.17.2_back blank 05r.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0076__O.17.2_back blank 05v.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0077__O.17.2_back blank 06r.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0078__O.17.2_back blank 06v.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0079__O.17.2_back blank 07r.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0080__O.17.2_back blank 07v.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0081__O.17.2_back blank 08r.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0082__O.17.2_back blank 08v.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0083__O.17.2_back blank 09r.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0084__O.17.2_back blank 09v.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0085__O.17.2_back blank 10r.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0086__O.17.2_back blank 10v.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0087__O.17.2_back blank 11r.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0088__O.17.2_back blank 11v.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0089__O.17.2_back blank 12r.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0090__O.17.2_back blank 12v.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0091__O.17.2_back blank 13v.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0092_O.17.2_back blank 13r.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0093__O.17.2_back blank 14r.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0094__O.17.2_back blank 14v.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0095__O.17.2_back blank 15v.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0096__O.17.2_back blank 15r.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0097__O.17.2_back blank 16r.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0098__O.17.2_back blank 16v.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0099__O.17.2_back blank 17r.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0100__O.17.2_back blank 17v.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0101__O.17.2_inside back.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0102__O.17.2_back cover.jp2"
+      ]
+    }
+  ]
+}
