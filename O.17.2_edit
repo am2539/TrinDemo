@@ -230,6 +230,9 @@
           "@type": "sc:Canvas",
           "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.17.2%2F0006__O.17.2_001rb.jp2",
           "label": "001rb",
+             "behavior": [
+        "non-paged"
+      ],
           "width": 5818,
           "height": 12515,
           "images": [
