@@ -86,7 +86,7 @@
     "sequences": [
         {
             "@type": "sc:Sequence",
-            "viewingHint": "individuals",
+            "viewingHint": "paged",
             "viewingDirection": "left-to-right",
             "canvases": [
                 {
